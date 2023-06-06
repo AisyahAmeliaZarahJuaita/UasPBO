@@ -81,7 +81,7 @@ Menambahkan tombol ke dalam window menggunakan metode pack().
 
 Membuat Listbox untuk Menampilkan Daftar Password:
 Membuat objek listbox sebagai listbox menggunakan class Listbox dari modul tkinter.
-Menambahkan listbox ke dalam window menggunakan metode pack().
+Menambahkan listbox ke dalam window menggunakan metode pack(). 
 
 Membuat Tombol "Delete Password":
 Membuat objek delete_button sebagai tombol dengan teks "Delete Password" menggunakan class Button dari modul tkinter.
